@@ -45,6 +45,10 @@ PROCESS
 
 * Insight Generation I Identified top‑performing products, regional sales contributions, and year‑over‑year performance to support strategic decision‑making.
 
+## Dashboard
+<img width="1400" height="770" alt="sales dashboard --" src="https://github.com/user-attachments/assets/afdf960d-c3be-4fbf-a9ab-ba49a1909fd2" />
+
+
 PROJECT INSIGHT
 ---
 * Graphic Design emerged as the top‑selling product, driving the highest revenue across all years and regions.
@@ -64,5 +68,7 @@ Pakistan stands out as the strongest market, contributing the highest sales volu
 Sales performance peaked in 2021, followed by a sharp decline in 2022, signalling a need for strategic review.
 
 Overall, the dashboard provides a clear, data‑driven view of product performance, regional trends, and growth patterns to support informed business decisions.
+
+
 
 
