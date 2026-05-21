@@ -29,9 +29,9 @@ QUESTIONS (KPIS)
 
 * Which location type (Hub vs Site) contributes most to total sales?
 
-* Dashboard Interaction [![Sales Dashboard](./sales%20dashboard%20image.png)](./sales%20dashboard%20image.png)
+* Dashboard Interaction 
   
-[![Sales Dashboard](./sales%20dashboard%20image.png)]
+
 
 ---
 
