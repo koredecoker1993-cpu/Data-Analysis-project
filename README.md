@@ -29,6 +29,10 @@ QUESTIONS (KPIS)
 * What is the year‑over‑year (YoY) growth or decline in sales performance?
 
 * Which location type (Hub vs Site) contributes most to total sales?
+
+* * Dashboard Interaction ## 📊 Sales Performance Dashboard
+
+![Sales Dashboard](./btBGVpcj2oKwyM2j9ALnD.png)
 ---
 
 
