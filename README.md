@@ -15,7 +15,6 @@ Empower stakeholders to explore data dynamically and identify actionable opportu
 ## Dataset Used
 The dataset used for this project is available in this repository.
 
-[📂 Download Dataset](./Sales%20Data%20Part1.txt)
 
 ---
 QUESTIONS (KPIS)
@@ -30,7 +29,7 @@ QUESTIONS (KPIS)
 
 * Which location type (Hub vs Site) contributes most to total sales?
 
-* Dashboard Interaction
+* Dashboard Interaction [![Sales Dashboard](./sales%20dashboard%20image.png)](./sales%20dashboard%20image.png)
   
 [![Sales Dashboard](./sales%20dashboard%20image.png)]
 
