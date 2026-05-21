@@ -33,7 +33,7 @@ QUESTIONS (KPIS)
 
 * Dashboard Interaction ## 📊 View Dashboard
 
-![Sales Dashboard](./sales_dashboard_image.png)
+
   
 PROCESS
 ---
