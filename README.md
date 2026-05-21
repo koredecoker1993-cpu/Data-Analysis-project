@@ -47,4 +47,24 @@ PROCESS
 
 * Insight Generation I Identified top‑performing products, regional sales contributions, and year‑over‑year performance to support strategic decision‑making.
 
+PROJECT INSIGHT
+---
+* Graphic Design emerged as the top‑selling product, driving the highest revenue across all years and regions.
+
+* Pakistan contributed the largest share of total sales and quantity sold, making it the strongest performing market.
+
+* Sales performance peaked in 2021 but experienced a significant decline in 2022, indicating a drop in demand or operational changes.
+
+* Site locations overwhelmingly outperformed Hub locations, generating the majority of total revenue and sales volume.
+
+FINAL CONCLUSION
+---
+The analysis clearly shows that Graphic Design is the dominant revenue‑driving product across all years.
+
+Pakistan stands out as the strongest market, contributing the highest sales volume and revenue.
+
+Sales performance peaked in 2021, followed by a sharp decline in 2022, signalling a need for strategic review.
+
+Overall, the dashboard provides a clear, data‑driven view of product performance, regional trends, and growth patterns to support informed business decisions.
+
 
