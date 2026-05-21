@@ -15,6 +15,8 @@ Empower stakeholders to explore data dynamically and identify actionable opportu
 ## Dataset Used
 The dataset used for this project is available in this repository.
 
+[📂 Download Dataset](./Sales%20Data%20Part1.txt)
+
 
 ---
 QUESTIONS (KPIS)
