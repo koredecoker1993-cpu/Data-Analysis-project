@@ -32,7 +32,7 @@ QUESTIONS (KPIS)
 
 * Dashboard Interaction
   
-[![Sales Dashboard](./sales%20dashboard%20image.png)](./sales%20dashboard%20image.png)
+[![Sales Dashboard](./sales%20dashboard%20image.png)]
 
 ---
 
