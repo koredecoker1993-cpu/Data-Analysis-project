@@ -6,11 +6,7 @@ A dynamic sales analytics dashboard designed to track multi‑year performance, 
 ---
 
 **PPROJECT OBJECTIVES:  
-Deliver a clear overview of sales performance across years, products, and regions.
-Identify top‑performing categories and uncover year‑over‑year sales trends.
-Compare sales contribution across locations to support strategic resource decisions.
-Enable data‑driven insights through interactive, drill‑down visual analytics.
-Empower stakeholders to explore data dynamically and identify actionable opportunities.
+
 ---
 
 ## Dataset Used
