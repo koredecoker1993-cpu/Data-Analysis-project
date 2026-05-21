@@ -11,8 +11,10 @@ Compare sales contribution across locations to support strategic resource decisi
 Enable data‑driven insights through interactive, drill‑down visual analytics.
 Empower stakeholders to explore data dynamically and identify actionable opportunities.**
 ---
-Dataset used
+
 ## Dataset Used
-[📂 View Dataset](./Sales_data_part1.xlsx)
+The dataset used for this project is available in this repository.
+
+[📂 Download Dataset](./Sales%20Data%20Part1.txt)
 
 
