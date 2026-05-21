@@ -12,4 +12,7 @@ Enable data‑driven insights through interactive, drill‑down visual analytics
 Empower stakeholders to explore data dynamically and identify actionable opportunities.**
 ---
 Dataset used
+## Dataset Used
+[📂 View Dataset](./Sales_data_part1.xlsx)
+
 
