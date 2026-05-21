@@ -1,5 +1,5 @@
 
-- # SALES PERFORMANCE DATA ANALYSIS PROJECT
+- # SALES PERFORMANCE DATA ANALYSIS PROJECT(Interactive Dashboard creation using Excel & Power Bi)
 ---
 A dynamic sales analytics dashboard designed to track multi‑year performance, highlight top‑selling products and regions, and empower strategic decision‑making through interactive, data‑driven insights.
 
