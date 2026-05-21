@@ -4,7 +4,7 @@
 A dynamic sales analytics dashboard designed to track multi‑year performance, highlight top‑selling products and regions, and empower strategic decision‑making through interactive, data‑driven insights.
 ---
 
-**Project Objectives:  
+**PPROJECT OBJECTIVES:  
 Deliver a clear overview of sales performance across years, products, and regions.
 Identify top‑performing categories and uncover year‑over‑year sales trends.
 Compare sales contribution across locations to support strategic resource decisions.
@@ -35,8 +35,14 @@ QUESTIONS (KPIS)
 
 ![Sales Dashboard](./sales_dashboard_image.png)
   
-
-
+PROCESS
 ---
+* Data Preparation I Cleaned and standardized raw sales data (dates, countries, product names, categories, sales, and quantities) for consistency and accuracy.
+
+* Data Modeling I Built relationships between tables and created DAX measures for KPIs such as Total Sales, Quantity Sold, and YoY Growth.
+
+* Visualization Design I Designed an interactive Power BI dashboard using cards, bar charts, donut charts, and area charts to highlight key metrics and trends.
+
+* Insight Generation I Identified top‑performing products, regional sales contributions, and year‑over‑year performance to support strategic decision‑making.
 
 
