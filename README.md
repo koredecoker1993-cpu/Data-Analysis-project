@@ -1,4 +1,7 @@
-# Sales performance Data-Analysis-project
+**Bold**
+# Heading
+- Bullet
+- # Sales performance Data-Analysis-project
 ---
 A dynamic sales analytics dashboard designed to track multi‑year performance, highlight top‑selling products and regions, and empower strategic decision‑making through interactive, data‑driven insights.
 ---
