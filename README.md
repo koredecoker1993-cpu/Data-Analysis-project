@@ -45,7 +45,7 @@ PROCESS
 
 * Insight Generation I Identified top‑performing products, regional sales contributions, and year‑over‑year performance to support strategic decision‑making.
 
-## Dashboard
+## DASHBOARD
 <img width="1400" height="770" alt="sales dashboard --" src="https://github.com/user-attachments/assets/afdf960d-c3be-4fbf-a9ab-ba49a1909fd2" />
 
 
