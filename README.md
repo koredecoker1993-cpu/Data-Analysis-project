@@ -17,4 +17,18 @@ The dataset used for this project is available in this repository.
 
 [📂 Download Dataset](./Sales%20Data%20Part1.txt)
 
+---
+QUESTIONS (KPIS)
+---
+* How many products were sold overall, and what is the total sales revenue?
+
+* Which products and categories generated the highest sales?
+
+* How do sales and quantities vary across countries and years?
+
+* What is the year‑over‑year (YoY) growth or decline in sales performance?
+
+* Which location type (Hub vs Site) contributes most to total sales?
+---
+
 
