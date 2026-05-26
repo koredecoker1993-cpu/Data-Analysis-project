@@ -5,7 +5,7 @@ A dynamic sales analytics dashboard designed to track multi‑year performance, 
 
 ---
 
- ## Key Metrics Summary
+ ## KEY METRICS SUMMARY
 | **Metric** | **Value** | **Description / Insight** |
 | --- | --- | --- |
 | **Total Quantity Sold** | **114K** | Total number of courses/products sold across all years. |
@@ -22,7 +22,7 @@ A dynamic sales analytics dashboard designed to track multi‑year performance, 
 
 ---
 
-*PROJECT OBJECTIVES:  
+## PROJECT OBJECTIVES:  
 Deliver a clear overview of sales performance across years, products, and regions.
 Identify top‑performing categories and uncover year‑over‑year sales trends.
 Compare sales contribution across locations to support strategic resource decisions.
@@ -31,7 +31,7 @@ Empower stakeholders to explore data dynamically and identify actionable opportu
 
 ---
 
-## Dataset Used
+## DATASET USED
 - <a href="https://github.com/koredecoker1993-cpu/Data-Analysis-project/blob/main/Sales%20Data%20Part1.txt">Dataset</a>
 
 
