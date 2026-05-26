@@ -11,7 +11,7 @@ A dynamic sales analytics dashboard designed to track multi‑year performance, 
 | **Total Quantity Sold** | **114K** | Total number of courses/products sold across all years. |
 | **Product Count** | **26** | Total distinct products or courses offered. |
 | **Total Sales Revenue** | **£184.84M** | Combined revenue generated from all sales. |
-| **Sales by Year (2020–2022)** | **2020: £83M**<br>**2021: £84M**<br>**2022: £18M** | Shows annual sales trend — sharp decline in 2022. |
+| **Sales by Year (2020–2022)** | **2020: £83M**<br>**2021: £84M**<br>**2022: £18M** | Shows annual sales trend  sharp decline in 2022. |
 | **Quantity Sold by Year** | **2020: 52,112**<br>**2021: 51,458**<br>**2022: 10,875** | Yearly breakdown of total units sold. |
 | **Sales YoY%** | **2021: ~0%**<br>**2022: -78%** | Year-over-year performance comparison. |
 | **Sales by Category** | **Courses: £79M**<br>**Diploma: £70M**<br>**Award: £36M** | Category-level contribution to total revenue. |
