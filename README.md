@@ -4,6 +4,8 @@
 A dynamic sales analytics dashboard designed to track multi‑year performance, highlight top‑selling products and regions, and empower strategic decision‑making through interactive, data‑driven insights.
 
 ---
+
+ ## Key Metrics Summary
 | **Metric** | **Value** | **Description / Insight** |
 | --- | --- | --- |
 | **Total Quantity Sold** | **114K** | Total number of courses/products sold across all years. |
