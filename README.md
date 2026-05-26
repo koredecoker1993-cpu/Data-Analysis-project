@@ -4,6 +4,21 @@
 A dynamic sales analytics dashboard designed to track multi‑year performance, highlight top‑selling products and regions, and empower strategic decision‑making through interactive, data‑driven insights.
 
 ---
+| **Metric** | **Value** | **Description / Insight** |
+| --- | --- | --- |
+| **Total Quantity Sold** | **114K** | Total number of courses/products sold across all years. |
+| **Product Count** | **26** | Total distinct products or courses offered. |
+| **Total Sales Revenue** | **£184.84M** | Combined revenue generated from all sales. |
+| **Sales by Year (2020–2022)** | **2020: £83M**<br>**2021: £84M**<br>**2022: £18M** | Shows annual sales trend — sharp decline in 2022. |
+| **Quantity Sold by Year** | **2020: 52,112**<br>**2021: 51,458**<br>**2022: 10,875** | Yearly breakdown of total units sold. |
+| **Sales YoY%** | **2021: ~0%**<br>**2022: -78%** | Year-over-year performance comparison. |
+| **Sales by Category** | **Courses: £79M**<br>**Diploma: £70M**<br>**Award: £36M** | Category-level contribution to total revenue. |
+| **Top 5 Products by Sales** | **Graphic Design (£58.7M)**<br>**Executive PA Diploma (£22.19M)**<br>**Microsoft Office Award (£21.07M)**<br>**Graphic Design Diploma (£10.96M)**<br>**Social Media Diploma (£9.28M)** | Highest revenue-generating products. |
+| **Sales by Location** | **Hub: £11.50M (6%)**<br>**Site: £173.34M (94%)** | Majority of sales generated from Site locations. |
+| **Quantity Sold by Country** | **Pakistan: 64K (56%)**<br>**Kenya: 23K (20%)**<br>**UK: 21K (19%)**<br>**Kuwait: small share** | Country-level distribution of sales quantity. |
+| **Sales by Country** | **Pakistan: £103M (56%)**<br>**Kenya: £37.88M (20%)**<br>**UK: £34.83M (19%)**<br>**Kuwait: minor share** | Country-level revenue contribution. |
+
+---
 
 *PROJECT OBJECTIVES:  
 Deliver a clear overview of sales performance across years, products, and regions.
